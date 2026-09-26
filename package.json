@@ -1,0 +1,12 @@
+{
+  "name": "vtu-circular-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start:backend": "npm run start --prefix backend",
+    "start:frontend": "npm start --prefix frontend",
+    "start:both": "concurrently \"npm run start:backend\" \"npm run start:frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}
