@@ -216,7 +216,7 @@ The project provides a centralized web-based interface for accessing VTU examina
 
 ## Demo
 
-Demo video and live application link will be added after deployment.
+[▶ Watch VTU Circular App Demo](./demo/vtu-circular-demo.mp4)
 
 ## Author
 
